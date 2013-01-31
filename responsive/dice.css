@@ -1,4 +1,4 @@
 .noLabel {
 	display: none;
-	hidden: true;
+	visibility: hidden;
 }
