@@ -10,3 +10,11 @@
 .jobTitle {
 	font-style: italic;
 }
+
+h1 {
+	text-decoration: underline;
+}
+
+body {
+	background-color: #e5f1ff;
+}
