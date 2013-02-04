@@ -18,3 +18,8 @@ h1 {
 body {
 	background-color: #e5f1ff;
 }
+
+img {
+	width: 220;
+	height: 300;
+}
