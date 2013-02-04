@@ -2,3 +2,22 @@ body {
 	color: #6699CC;
 	background-color: #505050;
 }
+
+.bold {
+	font-weight: bold;
+}
+
+.section { 
+	font-size: 20px;
+	color: #522C1B;
+	text-decoration: underline;
+}
+
+.jobTitle {
+	font-style: italic;
+}
+
+h1 {
+	text-decoration: underline;
+}
+
